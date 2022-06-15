@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Decoupling\bin\Debug\net6.0\Decoupling.exe
+C:\Users\User\source\repos\Decoupling\bin\Debug\net6.0\Decoupling.deps.json
+C:\Users\User\source\repos\Decoupling\bin\Debug\net6.0\Decoupling.runtimeconfig.json
+C:\Users\User\source\repos\Decoupling\bin\Debug\net6.0\Decoupling.dll
+C:\Users\User\source\repos\Decoupling\bin\Debug\net6.0\Decoupling.pdb
+C:\Users\User\source\repos\Decoupling\obj\Debug\net6.0\Decoupling.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Decoupling\obj\Debug\net6.0\Decoupling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Decoupling\obj\Debug\net6.0\Decoupling.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Decoupling\obj\Debug\net6.0\Decoupling.AssemblyInfo.cs
+C:\Users\User\source\repos\Decoupling\obj\Debug\net6.0\Decoupling.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Decoupling\obj\Debug\net6.0\Decoupling.dll
+C:\Users\User\source\repos\Decoupling\obj\Debug\net6.0\refint\Decoupling.dll
+C:\Users\User\source\repos\Decoupling\obj\Debug\net6.0\Decoupling.pdb
+C:\Users\User\source\repos\Decoupling\obj\Debug\net6.0\Decoupling.genruntimeconfig.cache
+C:\Users\User\source\repos\Decoupling\obj\Debug\net6.0\ref\Decoupling.dll
